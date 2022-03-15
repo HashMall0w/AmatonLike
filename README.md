@@ -1,3 +1,2 @@
 # AmatonLike
-University project
-Simulation of an e-commerce site written in C
+University project. Simulation of an e-commerce site written in C
